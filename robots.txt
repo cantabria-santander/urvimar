@@ -3,6 +3,6 @@ Allow: /
 Disallow: /json.php
 
 
-Host: www.urvimar.com
-Sitemap: https://www.urvimar.com/go.xml
+Host: urvimar.com
+Sitemap: https://urvimar.com/go.xml
 
