@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /json.php
+
+
+Host: www.urvimar.com
+Sitemap: https://www.urvimar.com/go.xml
+
